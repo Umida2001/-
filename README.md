@@ -22,7 +22,6 @@
 - `catalog.html` — каталог
 - `contact.html` — контакты
 - `style.css` — стили
-- `script.js` — скрипты
 - `README.md` — описание
 
 ## 🚀 Запуск
